@@ -226,7 +226,7 @@
             </tr>
             <tr>
                 <td>Desenvolvimento para dispositivos móveis</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/SteffanyJennyfer/IMD/tree/main/parte2/semana9/DispMoveis">Código</a></td>
                 <td align="center">✅</td>
         </table>
         <!-- FIM DA SEMANA NOVE -->
