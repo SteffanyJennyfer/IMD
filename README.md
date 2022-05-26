@@ -221,7 +221,7 @@
             </tr>
             <tr>
                 <td>Plataformas de aplicações web</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/SteffanyJennyfer/IMD/tree/main/parte2/semana9/ApliWeb">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
